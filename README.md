@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, I'm R.Bharat</h1>
+<h1 align="center">Bonjour 😀, I'm R.Bharat</h1>
 <h3 align="center">I am passionate about CPP and I am from India</h3>
 <img align "center" alt="Coding" width="300" src="https://media0.giphy.com/media/3bc9YL28QWi3pYzi1p/200.gif">
 
@@ -10,7 +10,9 @@
 
 - 📫 How to reach me **rbharat200116@gmail.com**
 
-- ⚡ Fun fact **I mix curd, curry and rice and eat.**
+- ⚡ Fun fact **I mix curd, curry and 🍚 and �eat.**
+
+![27e254eee622307c1eb3eaaa9b7653be](https://user-images.githubusercontent.com/69202422/149650290-221c8810-61d6-4817-81f1-6ec0f9b3fc42.gif)
 
 <h3 align="left">Talk with me , I am kinda awesome :) </h3>
 <p align="left">
