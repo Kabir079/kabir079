@@ -1,18 +1,18 @@
-https://tenor.com/view/aesthetic-anime-skyscrapers-cities-gif-20174511
 <h1 align="center">Bonjour 👋, I'm R.Bharat</h1>
 <h3 align="center">I am passionate about CPP and I am from India</h3>
+<img align "center" alt="Coding" width="300" src="https://media0.giphy.com/media/3bc9YL28QWi3pYzi1p/200.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabir079&label=Profile%20views&color=0e75b6&style=flat" alt="kabir079" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabir079" alt="kabir079" /></a> </p>
 
-- 🌱 I’m currently learning **CPP**
+- 🌱 I’m currently sponginggg **CPP**
 
 - 📫 How to reach me **rbharat200116@gmail.com**
 
 - ⚡ Fun fact **I mix curd, curry and rice and eat.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Talk with me , I am kinda awesome :) </h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/bharat17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bharat17" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/kabircovers/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kabircovers/?hl=en" height="30" width="40" /></a>
