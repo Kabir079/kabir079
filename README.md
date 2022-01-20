@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 😀, I'm R.Bharat</h1>
+<h1 align="center">Bonjour 😀, I'm Bharat</h1>
 <h3 align="center">I am passionate about CPP and I am from India</h3>
 <img align "center" alt="Coding" width="300" src="https://media0.giphy.com/media/3bc9YL28QWi3pYzi1p/200.gif">
 
