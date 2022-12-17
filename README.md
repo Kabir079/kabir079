@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 😀, I'm Bharat</h1>
-<h3 align="center">I am lazyyyy mannn but once I am hocked, I am boom 😏</h3>
+<h3 align="center">I am lazyyyy mannn but once I am hooked, I am boom 😏</h3>
 <img align "center" alt="Coding" width="300" src="https://media0.giphy.com/media/3bc9YL28QWi3pYzi1p/200.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabir079&label=Profile%20views&color=0e75b6&style=flat" alt="kabir079" /> </p>
