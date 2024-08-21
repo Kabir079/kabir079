@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabir079" alt="kabir079" /></a> </p>
 
-- 🌱 I’m currently sponginggg **CPP**
+- 🌱 I’m currently sponginggg **UI design and Product design**
 
-- 📫 How to reach me **rbharat200116@gmail.com**
+- 📫 How to reach me **bharatcraftings@gmail.com**
 
 - ⚡ Fun fact **I mix curd, curry and 🍚 and �eat.**
 
